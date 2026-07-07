@@ -1,1 +1,86 @@
+# ---------- Datasets (do not re-host HuggingFace / Kaggle data) ----------
 /data/
+Research-Deepfake/data/
+
+# ---------- Model weights / checkpoints ----------
+src/mtcnn/assets/weights/*.h5
+src/mtcnn/assets/weights/*.lz4
+*.pkl
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.onnx
+*.bin
+*.safetensors
+checkpoints/
+models/
+runs/
+outputs/
+
+# ---------- Notebooks local outputs ----------
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+.env
+.env.local
+.env.*.local
+.python-version
+
+# ---------- OS / editors ----------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# ---------- Build / dist ----------
+dist/
+build/
+*.egg-info/
+*.egg
+.eggs/
+pip-wheel-metadata/
+*.manifest
+*.spec
+
+# ---------- Logs ----------
+*.log
+logs/
+wandb/
+tensorboard/
+
+# ---------- Papers / PDFs (keep the source you own, re-host is copyright) ----------
+papers/
+*.pdf
+
+# ---------- Big archive ----------
+*.tar.gz
+*.zip
+*.7z
+*.rar
+
+# ---------- Temp scratch ----------
+tmp/
+temp/
+scratch/
+.DS_Store
+*.tmp

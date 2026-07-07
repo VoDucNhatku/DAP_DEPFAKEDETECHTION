@@ -1,0 +1,33 @@
+MIT License (full text in English follows)
+
+*Bản dịch tham khảo tiếng Việt — không có hiệu lực pháp lý:*/
+- DALIC giữ quyền tác giả. Bạn có thể dùng, sao chép, sửa, phân phối, và bán lại code mà không cần xin phép, với điều kiện giữ lại bản quyền này trong các bản sao hoặc phần quan trọng của phần mềm.
+- Phần mềm được cung cấp "như có", không bảo hành gì thêm; DALIC không chịu trách nhiệm cho bất kỳ khiếu nại, thiệt hại hay trách nhiệm nào phát sinh từ việc dùng phần mềm này.
+
+*Bản tiếng Anh chính thức:*
+MIT License
+
+Copyright (c) 2026 DALIC — Deepfake Analysis & Learning Improvement Club
+Corresponding author: Trieu Vy (it.trieu.vy.27@gmail.com)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+*Ghi chú bổ sung nhằm tuân thủ Luật Sở hữu trí tuệ Việt Nam 2005/2019 và phù hợp với Giấy phép MIT:**
+- Luật sở hữu trí tuệ Việt Nam không ghi đè phần quyền của MIT; phần bản dịch tiếng Việt chỉ mang tính tham khảo, bản tiếng Anh là văn bản chính.
+- Bên ngoài muốn sử dụng thương mại hoặc đóng góp lớn → liên hệ DALIC/it.trieu.vy.27@gmail.com.

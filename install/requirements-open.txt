@@ -1,0 +1,11 @@
+pandas
+seaborn
+numpy
+tqdm
+matplotlib
+scipy
+opencv-python
+scikit-learn
+jupyter
+pillow==10.4.0
+mtcnn
