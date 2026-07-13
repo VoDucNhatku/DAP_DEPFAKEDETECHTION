@@ -71,6 +71,7 @@ tensorboard/
 # ---------- Papers / PDFs (keep the source you own, re-host is copyright) ----------
 papers/
 *.pdf
+!paper/main.pdf
 
 # ---------- Big archive ----------
 *.tar.gz
